@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\ProjetoAula\ExemploArray\bin\Debug\netcoreapp2.0\ExemploArray.deps.json
+c:\Users\FIC\Desktop\ProjetoAula\ExemploArray\bin\Debug\netcoreapp2.0\ExemploArray.runtimeconfig.json
+c:\Users\FIC\Desktop\ProjetoAula\ExemploArray\bin\Debug\netcoreapp2.0\ExemploArray.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\ProjetoAula\ExemploArray\bin\Debug\netcoreapp2.0\ExemploArray.dll
+c:\Users\FIC\Desktop\ProjetoAula\ExemploArray\bin\Debug\netcoreapp2.0\ExemploArray.pdb
+c:\Users\FIC\Desktop\ProjetoAula\ExemploArray\obj\Debug\netcoreapp2.0\ExemploArray.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\ProjetoAula\ExemploArray\obj\Debug\netcoreapp2.0\ExemploArray.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\ProjetoAula\ExemploArray\obj\Debug\netcoreapp2.0\ExemploArray.AssemblyInfo.cs
+c:\Users\FIC\Desktop\ProjetoAula\ExemploArray\obj\Debug\netcoreapp2.0\ExemploArray.dll
+c:\Users\FIC\Desktop\ProjetoAula\ExemploArray\obj\Debug\netcoreapp2.0\ExemploArray.pdb
